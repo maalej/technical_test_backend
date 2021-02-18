@@ -9,3 +9,6 @@ In the project directory, you can run:
 ### `yarn start`
 
 Runs the server in the server at port 8000
+### `yarn test`
+
+Launches the testing
